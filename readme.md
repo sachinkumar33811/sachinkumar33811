@@ -1,3 +1,4 @@
+<img src="image/Black and Blue Futuristic Technology Banner Landscape.png" align="center" >
 <h1 align="center">Hi 👋, I'm Sachin Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 

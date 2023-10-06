@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sachinroy271296" target="blank"><img src="https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0.jpg"  />Sachin Kumar</a>
+<a href="https://twitter.com/sachinroy271296" target="blank"><img src="https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0.jpg" height="30" width="40" align="center" />Sachin Kumar</a>
 <a href="https://linkedin.com/in/sachin-kumar" target="blank"><img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo8-OlK875lUaWGFYEgcGyKNHAn26wwHh01OC9Fo1KVA&s" alt="sachin-kumar" height="30" width="40" align="center" />Sachin Kumar</a>
-<a href="https://instagram.com/sachin3722" target="blank"><img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmtH7vre3Xwn7NMMCtBeo7VkgJ9304lntaQhKytig&s" />Sachin Kumar</a>
+<a href="https://instagram.com/sachin3722" target="blank"><img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmtH7vre3Xwn7NMMCtBeo7VkgJ9304lntaQhKytig&s" height="30" width="40" align="center" />Sachin Kumar</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

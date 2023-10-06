@@ -1,4 +1,5 @@
-<img src="image/Black and Blue Futuristic Technology Banner Landscape.png" align="center" >
+![Black and Blue Futuristic Technology Banner Landscape (2)](https://github.com/sachinkumar33811/sachinkumar33811/assets/140197607/f28de47c-bc5d-4ccc-8512-39cc7ba43660)
+
 <h1 align="center">Hi 👋, I'm Sachin Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 

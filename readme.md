@@ -14,8 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sachinroy271296" target="blank"><img src="https://img.freepik.com/premium-vector/round-twitter-logo-isolated-white-background_469489-899.jpg" alt="sachinroy271296" height="30" width="40" align="center"  />Sachin Kumar</a>
-<a href="https://linkedin.com/in/sachin-kumar" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin-kumar" height="30" width="40" align="center" />Sachin Kumar</a>
-<a href="https://instagram.com/sachin3722" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sachin3722" height="30" width="40" align="center" />Sachin Kumar</a>
+<a href="https://linkedin.com/in/sachin-kumar" target="blank"><img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo8-OlK875lUaWGFYEgcGyKNHAn26wwHh01OC9Fo1KVA&s" alt="sachin-kumar" height="30" width="40" align="center" />Sachin Kumar</a>
+<a href="https://instagram.com/sachin3722" target="blank"><img  src="https://img.freepik.com/premium-vector/modern-badge-logo-instagram-icon_578229-124.jpg" alt="sachin3722" height="30" width="40" align="center" />Sachin Kumar</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
